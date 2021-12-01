@@ -28,9 +28,18 @@ O jogador irá atuar sendo o Alaric. Descobrindo a cada fase sobre sua história
   - Space: pular;
   - Left alt: atirar;
   - Setas padrão ou "A", "W", "D" e "S": anda nas quatro (4) direções;
+  - Esc (escape): pausa o jogo.
             
  ## Instalação
- - Em processo
+1. Clone o repositório em uma pasta da sua máquina, usando:
+ 
+        git clone https://github.com/CamilaEllen31/Jogo_MemoriasFantasmas
+        
+    Ou, clique no arquivo "MemoriasFantasmas.zip" e clique em "view raw". Ele fará o download somente da pasta citada;
+               
+ 2. Entre na pasta - citada acima- e extraia os arquivos da pasta "MemoriasFantasmas.zip";
+ 3. Dentro desta pasta, abra o arquivo executável "MemoriasFantasmasUnity.exe";
+ 4. Divirta-se!
  
 * Obs.: Ainda há pendências na gameplay do jogo.
 
